@@ -37,11 +37,11 @@ public class GCPStorageConfig {
 //    @Bean
 //    public Storage googleStorage() throws IOException {
 //        GoogleCredentials credentials = GoogleCredentials
-//                .fromStream(new FileInputStream("C:/Users/rahul/Downloads/cloudbox/cloudbox/src/main/resources/eng-district-457614-a2-36b6943ee28c.json"));
+//                .fromStream(new FileInputStream(""));
 //
 //        return StorageOptions.newBuilder()
 //                .setCredentials(credentials)
-//                .setProjectId("eng-district-457614-a2")
+//                .setProjectId("")
 //                .build()
 //                .getService();
 //    }
